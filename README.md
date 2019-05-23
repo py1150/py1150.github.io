@@ -1,6 +1,6 @@
 # py1150.github.io
 
-Blog entry is displayed on https://py1150.github.io
+Blog entry is implemented as html and displayed on https://py1150.github.io
 
 Project Structure
 ------------------

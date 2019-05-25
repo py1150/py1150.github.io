@@ -13,7 +13,7 @@ Project Files
 - index.html
 	contains blog entry
 
-- Data_Science_Blog_v5.ipynb
+- Data_Science_Blog_v6.ipynb
 	contains the analysis (Jupyter Notebook)
 
 Python Libraries used
